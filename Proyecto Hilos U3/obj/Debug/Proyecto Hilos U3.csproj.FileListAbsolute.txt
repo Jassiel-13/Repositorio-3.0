@@ -1,0 +1,10 @@
+C:\Users\Jassiel\source\repos\Proyecto Hilos U3\Proyecto Hilos U3\bin\Debug\Proyecto Hilos U3.exe.config
+C:\Users\Jassiel\source\repos\Proyecto Hilos U3\Proyecto Hilos U3\bin\Debug\Proyecto Hilos U3.exe
+C:\Users\Jassiel\source\repos\Proyecto Hilos U3\Proyecto Hilos U3\bin\Debug\Proyecto Hilos U3.pdb
+C:\Users\Jassiel\source\repos\Proyecto Hilos U3\Proyecto Hilos U3\obj\Debug\Proyecto Hilos U3.csproj.AssemblyReference.cache
+C:\Users\Jassiel\source\repos\Proyecto Hilos U3\Proyecto Hilos U3\obj\Debug\Proyecto_Hilos_U3.Form1.resources
+C:\Users\Jassiel\source\repos\Proyecto Hilos U3\Proyecto Hilos U3\obj\Debug\Proyecto_Hilos_U3.Properties.Resources.resources
+C:\Users\Jassiel\source\repos\Proyecto Hilos U3\Proyecto Hilos U3\obj\Debug\Proyecto Hilos U3.csproj.GenerateResource.cache
+C:\Users\Jassiel\source\repos\Proyecto Hilos U3\Proyecto Hilos U3\obj\Debug\Proyecto Hilos U3.csproj.CoreCompileInputs.cache
+C:\Users\Jassiel\source\repos\Proyecto Hilos U3\Proyecto Hilos U3\obj\Debug\Proyecto Hilos U3.exe
+C:\Users\Jassiel\source\repos\Proyecto Hilos U3\Proyecto Hilos U3\obj\Debug\Proyecto Hilos U3.pdb
