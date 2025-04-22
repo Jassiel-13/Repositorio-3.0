@@ -43,6 +43,5 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"Jassiel-13_Repositorio-3.0" /o:"repositorio-3-0" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-          dotnet build "Proyecto Hilos U3.sln"
+          dotnet build "Proyecto Hilos U3.sln" -p:Platform="Any CPU" -p:UseSharedCompilation=false
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
-
